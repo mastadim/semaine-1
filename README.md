@@ -10,3 +10,5 @@ Je ferais mon possible pour apprendre au plus vite
 __MERCI A SIMPLON__
 
 Petit *pas* pour moi,__grand__ pas pour La Poste
+
+#APPRENTISSAGE
